@@ -2,7 +2,7 @@ package server
 
 import (
 	"context"
-	grpcgo "github.com/hc6078/go-protobuf/grpc-go"
+	grpcgo "github.com/vrieske/go-protobuf/grpc-go"
 )
 
 type Dispatch struct {

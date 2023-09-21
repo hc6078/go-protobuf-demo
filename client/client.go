@@ -2,8 +2,8 @@ package client
 
 import (
 	"context"
-	"github.com/hc6078/go-artifacts/rpc"
-	grpcGo "github.com/hc6078/go-protobuf/grpc-go"
+	"github.com/vrieske/go-artifacts/rpc"
+	grpcGo "github.com/vrieske/go-protobuf/grpc-go"
 	"sync"
 	"time"
 )

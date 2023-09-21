@@ -2,8 +2,8 @@ package server
 
 import (
 	"context"
-	arpc "github.com/hc6078/go-artifacts/rpc"
-	grpcgo "github.com/hc6078/go-protobuf/grpc-go"
+	arpc "github.com/vrieske/go-artifacts/rpc"
+	grpcgo "github.com/vrieske/go-protobuf/grpc-go"
 	"google.golang.org/grpc"
 )
 
